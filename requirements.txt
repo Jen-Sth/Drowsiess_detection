@@ -1,0 +1,4 @@
+notebook
+mediapipe
+opencv-python 
+numpy
