@@ -2,3 +2,5 @@ notebook
 mediapipe
 opencv-python 
 numpy
+pygame
+scipy
